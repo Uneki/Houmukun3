@@ -11,7 +11,7 @@
 ページヘッダー
 ------------------------------*/
 .page-header {
-  background-color: #5A442A;
+  background-color: #e91e63;
 }
 
 .page-header__inner {
@@ -40,7 +40,7 @@
 ------------------------------*/
 .main-content {
   padding: 50px 0;
-  background-color: #03ccf4;
+  background-color: #e91e4869;
 }
 
 /* コンテンツのヘッダー */
